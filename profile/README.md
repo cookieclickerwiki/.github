@@ -7,7 +7,7 @@ Play Cookie Clicker [here](https://cookieclicker.ee)
 Welcome to the ultimate Cookie Clicker Wiki, your one-stop guide for everything related to the wildly addictive idle game, Cookie Clicker. Whether you're a casual player looking to optimize your cookie production or a hardcore grinder seeking secret strategies, this guide has got you covered!
 
 ---
-## 🍪 What is Cookie Clicker?
+## 🍪 What is [Cookie Clicker](https://cookieclicker.ee)?
 
 Cookie Clicker is an incremental idle game where players click to bake cookies, unlock upgrades, and automate production to amass a cookie empire. The game evolves over time, introducing more complex mechanics, upgrades, and achievements to keep things engaging.
 
@@ -24,7 +24,7 @@ Cookie Clicker is an incremental idle game where players click to bake cookies, 
 5. Minigames & Easter Eggs – Hidden mechanics and secret upgrades for advanced players.
 
 ---
-## 🚀 Getting Started with Cookie Clicker
+## 🚀 Getting Started with [Cookie Clicker](https://cookieclickerorteil.github.io)
 
 Step 1: Start Clicking
 
@@ -49,7 +49,7 @@ Step 3: Unlock Upgrades
 Once you've made billions of cookies, prestige to gain Heavenly Chips, which provide permanent bonuses for future runs.
 
 ---
-## 🏆 Cookie Clicker Achievements
+## 🏆 [Cookie Clicker](https://cookieclicker.me) Achievements
 
 Achievements track your progress and reward you with Milk, which increases production.
 
