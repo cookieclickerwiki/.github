@@ -55,19 +55,19 @@ Achievements track your progress and reward you with Milk, which increases produ
 
 ### Common Achievements:
 
-➡️ Wake and Bake – Bake 1 cookie.
+1. Wake and Bake – Bake 1 cookie.
 
-➡️ Casual Baking – Bake 1,000 cookies.
+2. Casual Baking – Bake 1,000 cookies.
 
-➡️ Cookie Monster – Bake 1 trillion cookies.
+3. Cookie Monster – Bake 1 trillion cookies.
 
 ### Secret & Shadow Achievements:
 
-➡️ True Neverclick – Bake 1 million cookies without clicking the big cookie.
+1. True Neverclick – Bake 1 million cookies without clicking the big cookie.
 
-➡️ Speed Baking III – Bake 1 million cookies in under 15 minutes.
+2. Speed Baking III – Bake 1 million cookies in under 15 minutes.
 
-➡️ Elder Slayer – Deal with the Grandmapocalypse.
+3. Elder Slayer – Deal with the Grandmapocalypse.
 
 ---
 ## 🔥 Advanced Strategies & Tips
@@ -84,13 +84,24 @@ Want to become a cookie master? Try these strategies:
 
 ➡️ Experiment with Seasons – Play during special in-game events for unique rewards.
 
+## 🔗 Where to Play Cookie Clicker?
+
+🍪 [Cookie Clicker](https://cookieclicker.ee)
+
+🍪 [GitHub Unblocked Versions](https://cookieclickernew.github.io)
+
+🍪 [Steam](https://store.steampowered.com/app/1454400/Cookie_Clicker/
+)
+
+🍪 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
+
 ---
 ## 🎮 Join the Cookie Clicker Community
 
 The Cookie Clicker community is filled with dedicated players sharing tips, theories, and mods. Whether you play casually or go all-in, there’s always something new to learn.
 
 ---
-## 🍪 Play [Cookie Clicker](https://cookieclicker.ee) Today!
+## 💰 Play [Cookie Clicker](https://cookieclicker.ee) Today!
 
 Now that you know everything about Cookie Clicker, it's time to build your cookie empire! Click your way to success and discover all the hidden secrets.
 
