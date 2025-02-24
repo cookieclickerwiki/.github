@@ -1,6 +1,6 @@
 # Cookie Clicker Wiki: The Ultimate Guide to Cookie Domination
 
-[![image_fx_ (4)](https://github.com/user-attachments/assets/e9e38156-c254-4031-937e-1824d7f5ceb1)](https://cookieclicker.ee/)
+[![image_fx_ (5)](https://github.com/user-attachments/assets/bfddc45c-b1bf-49f9-9618-0f15e3981c67)](https://cookieclicker.ee/)
 
 Play Cookie Clicker [here](https://cookieclicker.ee)
 
